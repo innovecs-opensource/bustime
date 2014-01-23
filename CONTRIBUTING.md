@@ -34,6 +34,13 @@ development, and also notifies other developers of what changes are introduced.
 Everyone who wants can comment on your changes. All communication regarding
 a feature branch is node in one place.
 
+Ideally, each pull request should have at least one reviewer. If possible,
+assign as a reviewer a person that is competent in the area of code that your
+pull request deals with. For example, for front-end changes a front-end
+developer should be assigned. However, it is not always clear who should be
+assigned for a particular pull request. In this case feel free to assign
+[valera-rozuvan](https://github.com/valera-rozuvan).
+
 Once all concerning developers are happy with a particular pull request, it can
 be safely merged. There is a button at the bottom of each pull request page,
 that is labeled "Merge".
