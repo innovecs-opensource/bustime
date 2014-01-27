@@ -15,4 +15,4 @@ Links
 -----
 
 1. [Contributing to this project](https://github.com/innovecs-opensource/bustime/blob/master/CONTRIBUTING.md)
-2. [Architecture](https://github.com/innovecs-opensource/bustime/wiki/Architecture)
+2. [Technical information wiki](https://github.com/innovecs-opensource/bustime/wiki)
