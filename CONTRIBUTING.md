@@ -32,7 +32,7 @@ GitHub, switch to your branch, you will be able to issue a pull request.
 Pull requests are very important because it lets people to collaborate in code
 development, and also notifies other developers of what changes are introduced.
 Everyone who wants can comment on your changes. All communication regarding
-a feature branch is node in one place.
+a feature branch is done in one place.
 
 Ideally, each pull request should have at least one reviewer. If possible,
 assign as a reviewer a person that is competent in the area of code that your
