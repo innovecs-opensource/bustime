@@ -22,12 +22,12 @@ First some prerequisites:
 Now clone this GitHub repository:
 
     cd ~/
-    git clone git@github.com:innovecs-opensource/bustime.git
+    git clone https://github.com/innovecs-opensource/bustime.git
 
 Start up the server:
 
     cd ~/bustime
-    python Backend/start-server.py
+    python Backend/start.py
 
 Whenever this repository is updated, you can update your local sources by:
 
